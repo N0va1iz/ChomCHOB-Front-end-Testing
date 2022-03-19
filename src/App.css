@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Boon-Light";
+}
+@font-face {
+  font-family: "Boon-Light";
+  src: url("./fonts/boon/font/ttf/Boon-Light.ttf") format("truetype");  
+}
+.font-face-gm{    
+  text-align: center;
+  text-justify: auto;       
+}
+.App{
+  background-color: #f0f0f0;  
+}
